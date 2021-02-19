@@ -1,0 +1,15 @@
+{
+  "name": "@connerchappell/3780-npm-package",
+  "version": "1.0.0",
+  "description": "Will fill this in once I know what I choose to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnerChappell/3780-npm-package.git"
+  },
+  "author": "Conner Chappell",
+  "license": "MIT"
+}
