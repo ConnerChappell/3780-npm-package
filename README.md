@@ -14,6 +14,8 @@ function metersToYards(meters) {
 metersToYards(200) // 200 meters is equal to 218.72 yards
 ```
 
+---
+
 #### Convert Celsius to Fahrenheit
 ```javascript
 function celsisusToFahrenheit(celsius) {
@@ -23,6 +25,8 @@ function celsisusToFahrenheit(celsius) {
 
 celsisusToFahrenheit(35) // 35 degrees celsius is 95 degrees fahrenheit
 ```
+
+---
 
 #### Convert Centimeters to Feet
 ```javascript
@@ -34,6 +38,8 @@ function centimetersToFeet(cm) {
 centimetersToFeet(150) // 150 centimeters is equal to 4.9212 feet
 ```
 
+---
+
 #### Convert Kilograms to Pounds
 ```javascript
 function kilogramsToPounds(kg) {
@@ -43,6 +49,8 @@ function kilogramsToPounds(kg) {
 
 kilogramsToPounds(50) // 50 kilograms is equal to 110.23 pounds
 ```
+
+---
 
 #### Convert Kilometers per Hour to Miles per Hour
 ```javascript
