@@ -1,7 +1,7 @@
 {
   "name": "@connerchappell/3780-npm-package",
   "version": "1.0.0",
-  "description": "Will fill this in once I know what I choose to do",
+  "description": "Simple metric to imperial unit conversion library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
